@@ -18,7 +18,7 @@ Application Laravel orientee sante, centree actuellement sur un flux de recupera
 
 ## Contexte
 
-`MedHeartV2` est une base Laravel 12 adaptee a un contexte hospitalier. Le code present cible surtout:
+`MedHeartV2` est une base Laravel 12 adaptée a un contexte hospitalier. Le code present cible surtout:
 
 - la page de connexion (UI),
 - la page de recuperation d identifiants,
